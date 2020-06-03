@@ -16,7 +16,7 @@ A new flutter plugin project.
   s.homepage         = 'http://example.com'
   s.license          = { :file => '../LICENSE' }
   s.author           = { 'Genert Org' => 'genert.org@indoor.solutions' }
-  s.source           = { :path => '.' }
+  s.source           = { :path => '.', :git => 'https://github.com/LtotheWT/pusher-websocket-swift.git'}
   s.source_files = 'Classes/**/*'
   s.public_header_files = 'Classes/**/*.h'
   s.dependency 'Flutter'
